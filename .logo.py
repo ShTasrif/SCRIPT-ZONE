@@ -67,4 +67,4 @@ def login ():
     ani("\n\t\033[1;30;31m</> PLEASE ENTER CORRECT USERNAME </>")
     time.sleep(2)
     login ()
-login()
+logo()
